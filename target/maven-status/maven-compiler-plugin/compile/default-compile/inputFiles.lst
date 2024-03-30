@@ -1,0 +1,13 @@
+/Users/jram_octo/Documents/java-projects/mongo-demo/src/main/java/ma/ac/usms/Main.java
+/Users/jram_octo/Documents/java-projects/mongo-demo/src/main/java/ma/ac/usms/config/MongoClientConnection.java
+/Users/jram_octo/Documents/java-projects/mongo-demo/src/main/java/ma/ac/usms/config/MongoDB.java
+/Users/jram_octo/Documents/java-projects/mongo-demo/src/main/java/ma/ac/usms/dao/AbstractDao.java
+/Users/jram_octo/Documents/java-projects/mongo-demo/src/main/java/ma/ac/usms/dao/ProjectDao.java
+/Users/jram_octo/Documents/java-projects/mongo-demo/src/main/java/ma/ac/usms/dao/TacheDao.java
+/Users/jram_octo/Documents/java-projects/mongo-demo/src/main/java/ma/ac/usms/dto/Project.java
+/Users/jram_octo/Documents/java-projects/mongo-demo/src/main/java/ma/ac/usms/dto/Tache.java
+/Users/jram_octo/Documents/java-projects/mongo-demo/src/main/java/ma/ac/usms/service/ProjectService.java
+/Users/jram_octo/Documents/java-projects/mongo-demo/src/main/java/ma/ac/usms/service/TacheService.java
+/Users/jram_octo/Documents/java-projects/mongo-demo/src/main/java/ma/ac/usms/service/factory/ServiceFactory.java
+/Users/jram_octo/Documents/java-projects/mongo-demo/src/main/java/ma/ac/usms/view/FormApplication.java
+/Users/jram_octo/Documents/java-projects/mongo-demo/src/main/java/ma/ac/usms/view/GUI.java

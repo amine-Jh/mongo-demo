@@ -1,0 +1,17 @@
+ma/ac/usms/view/GUI$1.class
+ma/ac/usms/view/FormApplication$2.class
+ma/ac/usms/dto/Tache.class
+ma/ac/usms/dao/TacheDao.class
+ma/ac/usms/view/FormApplication.class
+ma/ac/usms/config/MongoClientConnection.class
+ma/ac/usms/view/FormApplication$3.class
+ma/ac/usms/view/GUI.class
+ma/ac/usms/service/TacheService.class
+ma/ac/usms/dao/ProjectDao.class
+ma/ac/usms/service/ProjectService.class
+ma/ac/usms/config/MongoDB.class
+ma/ac/usms/dto/Project.class
+ma/ac/usms/dao/AbstractDao.class
+ma/ac/usms/Main.class
+ma/ac/usms/service/factory/ServiceFactory.class
+ma/ac/usms/view/FormApplication$1.class
